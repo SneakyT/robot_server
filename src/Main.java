@@ -11,7 +11,7 @@ import javax.swing.JFrame;
 
 public class Main extends java.applet.Applet implements ActionListener
 {
-    CheckboxGroup group; // creates a group of checkboxes test
+    CheckboxGroup group; // creates a group of checkboxes 
     Checkbox blocks; // creates the block checkbox
     JTextArea center2;
     JScrollPane scroll;
